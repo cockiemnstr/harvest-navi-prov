@@ -1,0 +1,28 @@
+{
+  "name": "harvest-navi-prov",
+  "version": "1.0.0",
+  "description": "Harvest Navi ProV offers advanced data retrieval and provisioning capabilities, making data operations efficient and streamlined.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cockiemnstr/harvest-navi-prov"
+  },
+  "author": "cockiemnstr",
+  "license": "MIT",
+  "dependencies": {
+    "data-harvest-navigator": "1.0.0",
+    "harvest-navi-prov": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "jest": "1.0.0",
+    "mongoose": "1.0.0",
+    "web3-react": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "multer": "1.0.0",
+    "truffle": "1.0.0",
+    "node-sass": "1.0.0",
+    "ethereumjs-util": "1.0.0"
+  }
+}
